@@ -1,1 +1,7 @@
 /__pycache__/
+/logs
+/.idea
+/.venv
+/core/__pycache__
+*/__pycache__
+**/__pycache__
